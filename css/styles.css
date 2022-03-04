@@ -1,0 +1,63 @@
+body {
+  background-color: #212121;
+}
+
+h1 {
+  color: #C3B091;
+}
+
+h3 {
+  color: #C3B091;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C3B091;
+  border-width: 5px;
+  width: 5%;
+}
+
+p {
+  color: #C3B091;
+}
+
+td {
+  color: #C3B091;
+}
+
+ul {
+  color: #C3B091;
+}
+
+th {
+  color: #C3B091;
+}
+
+label {
+  color: #C3B091;
+}
+
+a:link {
+  color: #9D5353;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9D5353;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C3B091;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #9D5353;
+  background-color: transparent;
+  text-decoration: underline;
+}
